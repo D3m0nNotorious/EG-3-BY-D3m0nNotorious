@@ -39,7 +39,7 @@ func showAd() {
 	lred := color.New(color.FgHiRed)
 	lyellow := color.New(color.FgHiYellow)
 	white := color.New(color.FgHiWhite)
-	message := fmt.Sprintf("%s: %s %s", lred.Sprint("Private Phishlets"), lyellow.Sprint("https://t.me/HosterMSG"), white.Sprint("(Updated at 2024/04/02 )"))
+	message := fmt.Sprintf("%s: %s %s", lred.Sprint("Private Phishlets"), lyellow.Sprint("https://t.me/Rssroyal"), white.Sprint("(Updated at 2024/04/02 )"))
 	log.Info("%s", message)
 }
 
