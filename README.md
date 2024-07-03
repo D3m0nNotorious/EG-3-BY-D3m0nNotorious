@@ -5,7 +5,7 @@
   </p>
 </p>
 
-# Evilginx 3.4.0 - Modified by @HosterMSG
+# Evilginx 3.4.0 - Modified by @D3m0nNotorious
 
 
 
@@ -15,7 +15,7 @@
 
 
 # NEW VERSION AVAILABLE
-https://github.com/EvilHoster/EvilGinx2-3.4.1-Modification
+(https://github.com/D3m0nNotorious/Evil-Ginxx-3-ALL-MOD-by-D3m0nNotorious.git)
 # NEW VERSION
 
 
@@ -23,7 +23,7 @@ https://github.com/EvilHoster/EvilGinx2-3.4.1-Modification
 
 
 # NEW VERSION AVAILABLE
-https://github.com/EvilHoster/EvilGinx2-3.4.1-Modification
+(https://github.com/D3m0nNotorious/Evil-Ginxx-3-ALL-MOD-by-D3m0nNotorious.git)
 # NEW VERSION
 
 
@@ -57,8 +57,8 @@ How to install ?
 
 On Ubuntu:
 
-1. git clone https://github.com/EvilHoster/evilginx-3.4.0-telegram-modification
-2. cd evilginx-3.4.0-telegram-modification
+1. git clone https://github.com/D3m0nNotorious/Evil-Ginxx-3-ALL-MOD-by-D3m0nNotorious.git
+2. cd Evil-Ginxx-3-ALL-MOD-by-D3m0nNotorious
 3. cd build
 4. chmod +rwx evilginx
 5. ./evilginx -p ../phishlets/
