@@ -23,7 +23,7 @@
 
 
 # NEW VERSION AVAILABLE
-(https://github.com/D3m0nNotorious/Evil-Ginxx-3-ALL-MOD-by-D3m0nNotorious.git)
+(https://github.com/D3m0nNotorious/Evil-Ginxxx-3-ALL-MOD-by-D3m0nNotorious.git)
 # NEW VERSION
 
 
@@ -57,8 +57,8 @@ How to install ?
 
 On Ubuntu:
 
-1. git clone https://github.com/D3m0nNotorious/Evil-Ginxx-3-ALL-MOD-by-D3m0nNotorious.git
-2. cd Evil-Ginxx-3-ALL-MOD-by-D3m0nNotorious
+1. git clone https://github.com/D3m0nNotorious/Evil-Ginxxx-3-ALL-MOD-by-D3m0nNotorious.git
+2. cd Evil-Ginxxx-3-ALL-MOD-by-D3m0nNotorious
 3. cd build
 4. chmod +rwx evilginx
 5. ./evilginx -p ../phishlets/
