@@ -16,10 +16,10 @@ func putAsciiArt(s string) {
 		d := string(c)
 		switch string(c) {
 		case " ":
-			color.Set(color.BgRed)
+			color.Set(color.BgGreen)
 			d = " "
 		case "@":
-			color.Set(color.BgBlack)
+			color.Set(color.BgRed)
 			d = " "
 		case "#":
 			color.Set(color.BgHiRed)
@@ -47,7 +47,7 @@ func printLogo(s string) {
 		case "\n":
 			color.Unset()
 		default:
-			color.Set(color.FgHiBlack)
+			color.Set(color.FgHiRed)
 		}
 		fmt.Print(d)
 	}
