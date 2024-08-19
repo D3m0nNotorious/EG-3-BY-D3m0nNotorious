@@ -109,6 +109,6 @@ func Banner() {
 	putAsciiArt("_   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   _")
 	printOneliner1()
 	fmt.Println()
-	putAsciiArt("__                                     __\n")
+	putAsciiArt("__ @D3MONNOTORIOUS                      __\n")
 	fmt.Println()
 }
